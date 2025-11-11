@@ -65,7 +65,7 @@ Build a small multi-agent system with ADK, run it locally, deploy to Agent Engin
 - Confirm an A2A discovery page or agent card is reachable and correctly describes the agent, including name, description, and supported actions if applicable.
 
 ### Video
-- **YouTube:** <https://youtu.be/REPLACE_WITH_YOUR_LINK> (placeholder)
+- **YouTube:** [<https://youtu.be/REPLACE_WITH_YOUR_LINK> (placeholder)](https://youtu.be/Ns9y0ER5XYU)
 - **Code Files:** <https://drive.google.com/drive/folders/1YBUsg8hDJ8h-mLJDww18oUbyXn3Xcux2?usp=sharing>
 
 ---
