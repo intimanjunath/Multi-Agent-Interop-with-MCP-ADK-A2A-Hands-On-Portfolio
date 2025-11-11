@@ -1,0 +1,10 @@
+{
+  "id": "uuid-123",
+  "params": {
+    "message": {
+      "messageId": "msg-456",
+      "role": "user",
+      "parts": [{ "text": "Create an image of a cat" }]
+    }
+  }
+}
