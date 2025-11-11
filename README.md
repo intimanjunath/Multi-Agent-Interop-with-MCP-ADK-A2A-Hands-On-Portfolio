@@ -1,4 +1,4 @@
-# MCP + ADK + A2A Codelabs — Reproduction Portfolio
+# MCP + ADK + A2A Codelabs 
 
 This repository reproduces three Google codelabs covering the Model Context Protocol (MCP), the Agent Development Kit (ADK), the Agent-to-Agent (A2A) protocol, and Agent Engine deployment. The work is organized into exactly two top-level subdirectories to match the assignment requirement.
 
@@ -14,6 +14,7 @@ This repository reproduces three Google codelabs covering the Model Context Prot
 - Contains subfolders for `currency-agent` and `purchasing-concierge`, each with environment notes, verification screenshots, and short write-ups.
 
 A “videos” note or link appears in each codelab section below and at the end of this file.
+A "code" where all the code and files has been attached in drive and shared in here. 
 
 ---
 
@@ -64,8 +65,8 @@ A “videos” note or link appears in each codelab section below and at the end
 - Confirm an A2A discovery page or agent card is reachable and correctly describes the agent, including name, description, and supported actions if applicable.
 
 ### Video
-- Video Clip YouTube (placeholder): https://youtu.be/REPLACE_WITH_YOUR_LINK
-
+- Video Clip YouTube (placeholder): [https://youtu.be/REPLACE_WITH_YOUR_LINK](https://youtu.be/Ns9y0ER5XYU)
+- Code Files : https://drive.google.com/drive/folders/1YBUsg8hDJ8h-mLJDww18oUbyXn3Xcux2?usp=sharing
 ---
 
 ## Codelab 2 — Currency Agent (MCP + ADK + A2A)
@@ -93,7 +94,8 @@ A “videos” note or link appears in each codelab section below and at the end
 - Optional: If deployed to Cloud Run, record the public URL and capture the agent card page if applicable.
 
 ### Video
-- Video Clip YouTube (placeholder): https://youtu.be/REPLACE_WITH_YOUR_LINK
+- Video Clip YouTube: https://youtu.be/oFN9Neo0XYE
+- code files : https://drive.google.com/drive/folders/1AF-WvlI72k7AuGLod4k2AN-APzy9WCKa?usp=sharing
 
 ---
 
@@ -127,4 +129,5 @@ A “videos” note or link appears in each codelab section below and at the end
   - Capture the resulting confirmation or summary
 
 ### Video
-- Video Clip YouTube (placeholder): https://youtu.be/REPLACE_WITH_YOUR_LINK
+- Video Clip YouTube : https://youtu.be/a4m0D82MobM
+- code : https://drive.google.com/drive/folders/1z3XAhk2wl87OZNGpCYARcU_ceoDIIrQW?usp=sharing
